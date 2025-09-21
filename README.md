@@ -8,7 +8,7 @@ Dataset: Microsoft's AdventureWorks sample database (Excel files).
 
  **Tables Used**: The data model likely integrates multiple tables, including:
 
-* **Sales (Order headers, details, returns)
+* **Sales** (Order headers, details, returns)
 
 * **Products** (Product categories, subcategories)
 
@@ -90,10 +90,10 @@ The dashboard provides insights into several critical business areas:
 
 * Incorporate inventory data to analyze stock levels and turnover rates.
 
-Build a customer cohort analysis to track retention and lifetime value (LTV).
+* Build a customer cohort analysis to track retention and lifetime value (LTV).
 
-Add forecasting models to predict future sales trends directly within Power BI.
+* Add forecasting models to predict future sales trends directly within Power BI.
 
-Publish the report to the Power BI Service to enable automated refresh and sharing with stakeholders.
+* Publish the report to the Power BI Service to enable automated refresh and sharing with stakeholders.
 
-Tools: Power BI | Power Query | DAX | Data Modeling
+**Tools:** Power BI | Power Query | DAX | Data Modeling
