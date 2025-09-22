@@ -3,6 +3,9 @@
 ## **Project Overview**
 This project involves the development of an interactive Power BI dashboard to analyze the sales performance of AdventureWorks Cycles, a fictional bicycle and accessories company. The primary goal was to transform raw sales data into actionable business intelligence, enabling stakeholders to track key metrics, identify trends, and make data-driven decisions to optimize sales strategy and customer engagement.
 
+## **ETL WorkFlow**
+<img width="1214" height="651" alt="ETL workflow" src="https://github.com/user-attachments/assets/ea5ffd95-3cb3-4c80-ba6b-3049b21e8804" />
+
  ## Data Source & Description
 Dataset: Microsoft's AdventureWorks sample database (Excel files).
 
